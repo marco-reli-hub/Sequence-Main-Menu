@@ -1,4 +1,4 @@
-// Make a main menu for all the sequence codes.
+// Make a C++ main menu for all the sequence codes.
 
 #include <iostream>
 using namespace std;
