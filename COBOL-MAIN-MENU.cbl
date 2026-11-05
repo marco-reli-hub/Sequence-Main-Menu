@@ -1,4 +1,4 @@
-      *    Write a main menu for all the sequence COBOL codes
+      *    Make a COBOL main menu for all the sequence COBOL codes
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. MAIN-MENU-PROGRAM.
